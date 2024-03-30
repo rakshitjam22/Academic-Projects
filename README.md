@@ -1,2 +1,2 @@
 # Academic-Projects
-# Creating a shop for clothing brands
+# Creating a shop/e commerce site for a clothing brands
